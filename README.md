@@ -1,2 +1,2 @@
-# uppercase-astCharacter
+# uppercaseLastCharacter
 uppercaseLastCharacter function for javascript
